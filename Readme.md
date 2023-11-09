@@ -11,7 +11,7 @@ and in particular this part :
 
 This refactoring has been done in about 1 day. This project has been done to demonstrate my skills in programming. It is not at all a reusable project and the refactoring could go further.
 
-I have choosen a goal for this refactoring in order to be efficient : add the possibility to implemenent an inference rule to the original project. And I have added a very slight one.
+I have choosen a goal for this refactoring in order to be efficient : add the possibility to implemenent a rules inference to the original project. And I have added a very slight one.
 
 I have learned the programming language "java" 20 years ago. For example, this programming language had no generics and no lambdas at this time. And I can program in fewer others programming languages with different paradigms.
 
