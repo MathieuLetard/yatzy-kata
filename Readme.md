@@ -15,7 +15,7 @@ I have choosen a goal for this refactoring in order to be efficient : add the po
 
 I have learned the programming language "java" in 2003. For example, this programming language had no generics and no lambdas at this time. And I can program in fewer others programming languages with different paradigms.
 
-So I hope this code will show that my skills in this programming language are up to date and more generally that my skills in programming are good.
+So I hope this code will show that my kwnoledges in this programming language are up to date and more generally that my skills in programming are good.
 
 ## Installation and Usage
 
