@@ -10,26 +10,26 @@ import static org.yatzy.Dices.Result.*;
 import static org.junit.Assert.*;
 
 public class YatzyTest {
-	
+
 	private LinkedList<Rule> rules;
-	
+
 	@Before
-    public void init() {
-        rules = Rule.getRules();
-    }
+	public void init() {
+		rules = Rule.getRules();
+	}
 
 	@Test
 	public void testOnes() {
 		Result r = Yatzy.getInstance().inferSimples(rules, new Dices(ONE, ONE, ONE, ONE, ONE));
 		assertEquals(r.r, Rule.ONES);
 	}
-	
+
 	@Test
 	public void testYatzy() {
 		Result r = Yatzy.getInstance().inferComplexes(rules, new Dices(ONE, ONE, ONE, ONE, ONE));
 		assertEquals(r.r, Rule.YATZY);
 	}
-	
+
 	@Test
 	public void testInfer() {
 		Result r = Yatzy.getInstance().infer(rules, new Dices(ONE, ONE, ONE, ONE, ONE));
