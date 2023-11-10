@@ -13,7 +13,7 @@ This refactoring has been done in about 1 day. This project has been done to dem
 
 I have choosen a goal for this refactoring in order to be efficient : add the possibility to implemenent a rules inference to the original project. And I have added a very slight one.
 
-I have learned the programming language "java" 20 years ago. For example, this programming language had no generics and no lambdas at this time. And I can program in fewer others programming languages with different paradigms.
+I have learned the programming language "java" in 2003. For example, this programming language had no generics and no lambdas at this time. And I can program in fewer others programming languages with different paradigms.
 
 So I hope this code will show that my skills in this programming language are up to date and more generally that my skills in programming are good.
 
