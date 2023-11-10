@@ -19,7 +19,7 @@ So I hope this code will show that my kwnoledges in this programming language ar
 
 ## Installation and Usage
 
-As said, it is not at all a reusable project. So open this project with your favourite IDE with a [maven](https://maven.apache.org/) plugin. And navigate into the code and launch the unitary tests. That's all.
+As said, it is not at all a reusable project. So open this project with your favourite IDE with a [maven](https://maven.apache.org/) plugin. And navigate through the code and launch the unitary tests. That's all.
 
 You can also use the package manager to test and install it.
 
