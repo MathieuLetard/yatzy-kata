@@ -1,8 +1,5 @@
 # Yatzy kata by Mathieu Létard
 
-This is my LinkedIn account :
-[https://www.linkedin.com/in/mathieu-l%C3%A9tard-324b4410/?originalSubdomain=fr](https://www.linkedin.com/in/mathieu-l%C3%A9tard-324b4410/?originalSubdomain=fr)
-
 This project is my implementation of this refactoring kata :
 [https://github.com/emilybache/Yatzy-Refactoring-Kata](https://github.com/emilybache/Yatzy-Refactoring-Kata/)
 
